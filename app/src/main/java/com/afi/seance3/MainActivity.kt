@@ -26,8 +26,8 @@ class MainActivity : ComponentActivity() {
 //                }
 //            }
 //        }
-//        setContentView(R.layout.activity_main)
-        setContentView(R.layout.activity_connexion)
+        // setContentView(R.layout.activity_main)
+        setContentView(R.layout.r_login)
     }
 }
 
